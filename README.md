@@ -1,4 +1,6 @@
 # Nanoscale-Surfactant-Transport
+# Published work: Nanoscale Surfactant Transport: Bridging Molecular and Continuum Models, MR Rahman, JP Ewen, L Shen, DM Heyes, D Dini, ER Smith, Journal of Fluid Mechanics, 2025
+
 
 Key descriptions of the system
 
